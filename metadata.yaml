@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '33974'
     url: http://www.gutenberg.org/2009/agents/33974
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29541#A-Walk-from-London-to-Fulham
 gutenberg_issued: '2009-07-29'
 gutenberg_type: Text
 identifiers:
